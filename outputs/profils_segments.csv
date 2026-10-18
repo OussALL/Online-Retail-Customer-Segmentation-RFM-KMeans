@@ -1,0 +1,4 @@
+Segment,Nombre_clients,Recency_mediane,Frequency_mediane,Monetary_mediane,Monetary_total,Part_clients_pct,Part_Monetary_pct
+Clients inactifs / à risque,980,252.0,1.0,290.45500000000004,389084.991,22.59,4.38
+Clients occasionnels,2038,45.0,2.0,508.8,1248631.533,46.98,14.05
+Clients à forte valeur,1320,17.0,7.0,2570.495,7249492.37,30.43,81.57
